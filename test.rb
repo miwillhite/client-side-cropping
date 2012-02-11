@@ -60,8 +60,6 @@ __END__
   <script>
   
     // TODO
-    // fix the preview aspect ratio
-    // fix the preview window (not lining up with selected)
     // dynamically adjust the preview calculations using the uploaded images dims (currently static)
 
     var URL = window.webkitURL || window.URL,
